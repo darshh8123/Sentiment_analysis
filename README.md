@@ -21,4 +21,5 @@ This project performs sentiment analysis on tweets using Python's Natural Langua
 sentiment-analysis-twitter/
 ├── sentiment_analysis.py / untitled37.ipynb
 ├── twitter_dataset.csv
+|── Requirements.txt
 └── README.md
